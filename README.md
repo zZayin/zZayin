@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Zayin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20%7C%20Sistemas%20Web&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvimento+Backend;TypeScript+%2F+PHP+%2F+JavaScript;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Dev+Backend;TypeScript+%2F+PHP+%2F+JavaScript;" alt="Typing SVG" />
 
 <br/>
 
